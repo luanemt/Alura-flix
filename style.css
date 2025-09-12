@@ -1,5 +1,11 @@
 body{
     background-color: rgb(102, 243, 189);
     color:rgb(26, 162, 114);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Bungee", sans-serif;
+}
+header{
+    font-size: 28px;
+}
+h1{
+    font-size: 54px;
 }
