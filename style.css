@@ -5,7 +5,11 @@ body{
 }
 header{
     font-size: 28px;
+    border:An inset border. The effect depends on the border-color value. 4px rgb(26, 162, 114);
 }
 h1{
     font-size: 54px;
+}
+p{
+    font-size: 22;
 }
