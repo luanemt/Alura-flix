@@ -2,10 +2,14 @@ body{
     background-color: rgb(102, 243, 189);
     color:rgb(26, 162, 114);
     font-family: "Bungee", sans-serif;
+    margin: 0px;
 }
 header{
     font-size: 28px;
-    border:An inset border. The effect depends on the border-color value. 4px rgb(26, 162, 114);
+    border: ridge 6px rgb(26, 162, 114);
+    text-align: center;
+    /*margin: 30px;*/
+    padding: 15px;
 }
 h1{
     font-size: 54px;
